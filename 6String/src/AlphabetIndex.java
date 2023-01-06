@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -13,5 +12,6 @@ public class AlphabetIndex {
             result.add(String.valueOf(S.indexOf(i)));
         }
         System.out.println(String.join(" ", result));
+        sc.close();
     }
 }
