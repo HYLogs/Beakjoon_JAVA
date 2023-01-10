@@ -5,5 +5,6 @@ public class ASCII {
         Scanner sc = new Scanner(System.in);
         int ascii = (int)(sc.nextLine().charAt(0));
         System.out.println(ascii);
+        sc.close();
     }
 }
