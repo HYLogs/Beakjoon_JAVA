@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "6String/src",
         "1InputAndCal/src",
-        "6String/src"
+        "7basicMath/src"
     ]
 }
