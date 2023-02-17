@@ -7,7 +7,6 @@ public class FindFraction {
         sc.nextLine();
         sc.close();
         
-
         System.out.println(find(input));
     }
 
