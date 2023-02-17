@@ -1,0 +1,203 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ADivideB",
+            "request": "launch",
+            "mainClass": "ADivideB",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch AMultiB",
+            "request": "launch",
+            "mainClass": "AMultiB",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch ASCII",
+            "request": "launch",
+            "mainClass": "ASCII",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch AaddB",
+            "request": "launch",
+            "mainClass": "AaddB",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlphabetIndex",
+            "request": "launch",
+            "mainClass": "AlphabetIndex",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch AminusB",
+            "request": "launch",
+            "mainClass": "AminusB",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch AoperationB",
+            "request": "launch",
+            "mainClass": "AoperationB",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakevenPoint",
+            "request": "launch",
+            "mainClass": "BreakevenPoint",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cat",
+            "request": "launch",
+            "mainClass": "Cat",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Chess",
+            "request": "launch",
+            "mainClass": "Chess",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constant",
+            "request": "launch",
+            "mainClass": "Constant",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Countword",
+            "request": "launch",
+            "mainClass": "Countword",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch CroatiaAlphabet",
+            "request": "launch",
+            "mainClass": "CroatiaAlphabet",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dial",
+            "request": "launch",
+            "mainClass": "Dial",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dog",
+            "request": "launch",
+            "mainClass": "Dog",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindFraction",
+            "request": "launch",
+            "mainClass": "FindFraction",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch GroupWord",
+            "request": "launch",
+            "mainClass": "GroupWord",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWord",
+            "request": "launch",
+            "mainClass": "HelloWord",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Honeycomb",
+            "request": "launch",
+            "mainClass": "Honeycomb",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Junha",
+            "request": "launch",
+            "mainClass": "Junha",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiProc",
+            "request": "launch",
+            "mainClass": "MultiProc",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringRepeat",
+            "request": "launch",
+            "mainClass": "StringRepeat",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumNum",
+            "request": "launch",
+            "mainClass": "SumNum",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Thailand",
+            "request": "launch",
+            "mainClass": "Thailand",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch TheRest",
+            "request": "launch",
+            "mainClass": "TheRest",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch WeLoveKriii",
+            "request": "launch",
+            "mainClass": "WeLoveKriii",
+            "projectName": "백준_14fc0ddf"
+        },
+        {
+            "type": "java",
+            "name": "Launch Wordstudy",
+            "request": "launch",
+            "mainClass": "Wordstudy",
+            "projectName": "백준_14fc0ddf"
+        }
+    ]
+}

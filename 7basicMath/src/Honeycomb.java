@@ -10,7 +10,9 @@ public class Honeycomb {
 
         int i = 1;
         while(true){
-            int a = 3*i*(i-1)+1; //계차수열을 이용 an = a1 + sum b(n-1)
+            //계차수열을 이용 an = a1 + sum b(n-1) - (bn이 계차수열)
+            //sum K = (n+1)n/2, bn = 6n
+            int a = 1 + 3*i*(i-1); 
             if ( a >= input ) break; 
             i++;
         }
